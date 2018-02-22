@@ -28,7 +28,7 @@
    **- All of categories name is lowercase.**
   
  ## - To Check Available Object Keys use:
-    `JSON.parse(dataJSONEndcoded)`
+    JSON.parse(dataJSONEndcoded)
 
  
  
