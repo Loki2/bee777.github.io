@@ -1,3 +1,15 @@
-# Request header required to set #:
-**key**: **X-Requested-With**
-**value**: **XMLHttpRequest**
+# Request header required to sets #:
+**Key**: **X-Requested-With**
+-
+**Value**: **XMLHttpRequest**
+# Available api URIs#:
+- **Get Encoded JSON DATA of Single Article(Blog) with specifix an id**:
+
+`http://128.199.174.192/api/home/article/**id_here**`
+- **Get Encoded JSON DATA of All Article(Blogs) with specifix Category Name and Page Number (for pagination, default page number is 1)**:
+
+`http://128.199.174.192/api/home/article/**category_name_here**/**next_page_here(if needed)**`
+
+ - # Available Categories Name#:
+           
+ 
