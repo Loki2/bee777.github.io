@@ -27,10 +27,10 @@
    
    **- All of categories name is lowercase.**
   
- ## - Available Every Articles Object keys:
+ ## - Available Every Articles Object keys and its childs:
  
  
- ## - Available Single Article Object keys:
+ ## - Available Single Article Object keys its childs:
 
  
  
