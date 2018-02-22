@@ -25,11 +25,11 @@
    
    ### Note:
    
-   **- Allowed Origins for localhost Ports:**
+   **- Allowed Origins for localhost ports:**
    `8000,
    8080`
    
-   **- Default Category Name is events.**
+   **- Default category name is events.**
    
    **- All of categories name is lowercase.**
   
