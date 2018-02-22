@@ -29,7 +29,7 @@
    `8000,
    8080`
    
-   **- Default is events.**
+   **- Default Category Name is events.**
    
    **- All of categories name is lowercase.**
   
