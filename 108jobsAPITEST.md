@@ -27,8 +27,8 @@
    
    **- All of categories name is lowercase.**
   
- ## - To Check Available Object Keys use:
-    JSON.parse(dataJSONEndcoded)
+ ## - To Check Available Object Keys on Javascript use:
+    console.log(JSON.parse(YourResponse.data));
 
  
  
