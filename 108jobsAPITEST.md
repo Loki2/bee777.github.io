@@ -22,6 +22,7 @@
    **5. career.**
    
    **6. salary.**
+   
    `Note:`
    **- Default is events.**
    
