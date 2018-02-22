@@ -8,7 +8,7 @@
   `http://128.199.174.192/api/home/article/id_here`
 - **Get Encoded JSON DATA of All Article(Blogs) with specific Category Name and Page Number (for pagination, default page number is 1 , you can leave it to empty)**:
 
-  `http://128.199.174.192/api/home/article/category_name_here/next_page_here(if needed)`
+  `http://128.199.174.192/api/home/article/category_name_here/current_page_number_here(if needed)`
 
  - ## Available Categories Name:
    **1. events.**
