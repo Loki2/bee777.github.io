@@ -1,5 +1,6 @@
 # Request header required to sets #:
 **Key**: **X-Requested-With**
+
 **Value**: **XMLHttpRequest**
 # Available api URIs#:
 - **Get Encoded JSON DATA of Single Article(Blog) with specifix an id**:
