@@ -25,7 +25,7 @@
    
    ### Note:
    
-   **- Allowed Origins for Localhost Ports:**
+   **- Allowed Origins for localhost Ports:**
    `8000,
    8080`
    
