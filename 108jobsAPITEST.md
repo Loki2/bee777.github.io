@@ -25,6 +25,10 @@
    
    `Note:`
    
+   ** Allowed Origins for Localhost Ports:
+   `8000,
+   8080`
+   
    **- Default is events.**
    
    **- All of categories name is lowercase.**
