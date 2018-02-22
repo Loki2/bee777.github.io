@@ -27,10 +27,8 @@
    
    **- All of categories name is lowercase.**
   
- ## - Available Every Articles Object Keys:
- 
- 
- ## - Available Single Article Object Keys:
+ ## - To Check Available Object Keys use:
+    `JSON.parse(dataJSONEndcoded)`
 
  
  
