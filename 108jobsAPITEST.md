@@ -23,9 +23,9 @@
    
    **6. salary.**
    
-   `Note:`
+   ###Note:
    
-   ** Allowed Origins for Localhost Ports:
+   **Allowed Origins for Localhost Ports:
    `8000,
    8080`
    
