@@ -22,7 +22,7 @@
    **5. career.**
    
    **6. salary.**
-   
+   `Note:`
    **- Default is events.**
    
    **- All of categories name is lowercase.**
