@@ -11,14 +11,14 @@
 `http://128.199.174.192/api/home/article/**category_name_here**/**next_page_here (if needed)**`
 
  - ## Available Categories Name ##:
-   1. events.
+   **1. events.
    2. resume.
    3. interviews.
    4. jobs.
    5. career.
    6. salary.
    - Default is events.
-   - All of categories name is lowercase.
+   - All of categories name is lowercase.**
    
            
  
