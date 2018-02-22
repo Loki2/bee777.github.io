@@ -2,7 +2,7 @@
 - **Key**: **X-Requested-With**
 
 - **Value**: **XMLHttpRequest**
-# Available api URIs#:
+# Available API URIs#:
 - **Get Encoded JSON DATA of Single Article(Blog) with specifix an id**:
 
 `http://128.199.174.192/api/home/article/**id_here**`
