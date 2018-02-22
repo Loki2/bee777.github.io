@@ -6,7 +6,7 @@
 - **Get Encoded JSON DATA of Single Article(Blog) with specific an id**:
 
   `http://128.199.174.192/api/home/article/id_here`
-- **Get Encoded JSON DATA of All Article(Blogs) with specific Category Name and Page Number (for pagination, default page number is 1 , you can leave it to empty)**:
+- **Get Encoded JSON DATA of All Article(Blogs) with specific Category Name and Page Number (For pagination, default page number is 1, you can leave it to empty)**:
 
   `http://128.199.174.192/api/home/article/category_name_here/current_page_number_here(if needed)`
 
