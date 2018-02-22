@@ -12,12 +12,19 @@
 
  - ## Available Categories Name:
    **1. events.**
+   
    **2. resume.**
+   
    **3. interviews.**
+   
    **4. jobs.**
+   
    **5. career.**
+   
    **6. salary.**
+   
    **- Default is events.**
+   
    **- All of categories name is lowercase.**
    
            
