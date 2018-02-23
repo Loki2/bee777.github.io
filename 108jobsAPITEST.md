@@ -3,7 +3,7 @@
 
 - **Value**: **XMLHttpRequest**
 # Available API URIs#:
-- **Get Encoded JSON DATA of Single Article(Blog) with specific an id**:
+- **Get Encoded JSON DATA of Single Article(Blog) with specific an id (id is numeric only)**:
 
   `http://128.199.174.192/api/home/article/id_here`
 - **Get Encoded JSON DATA of All Article(Blogs) with specific Category Name and Page Number (For pagination, default page number is 1, you can leave it to empty)**:
@@ -22,6 +22,10 @@
    **5. career.**
    
    **6. salary.**
+   
+   **else**
+   
+   **7. events.**
    
    ### Note:
    
